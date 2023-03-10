@@ -63,7 +63,7 @@ Sunday       25 commits     █████░░░░░░░░░░░░�
 📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Amsterdam
+⌚︎ Time zone: North America
 
 💬 Programming Languages: 
 JavaScript               16 hrs 2 mins       ██████████████████░░░░░░░   71.79% 
