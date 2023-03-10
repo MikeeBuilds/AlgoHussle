@@ -2,7 +2,7 @@
 I'm Algo.  
 - 🧑🏾‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
 - 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++
-- 🐟 When um not coding Im usually spending time outdoors fishing or hiking.
+- 🐟 When Im not coding Im usually spending time outdoors fishing or hiking.
 - 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
 - 📫 I do write blogs about tech topics and scroll through twitter pertty often.
 - ❓ Want to know more about me? You can always contact me via serval social medias!
