@@ -16,101 +16,17 @@ I'm Algo.
 ‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/kawaaii)
 ‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
 
-## Current projects
+# Current projects
 - [Citz3ns of Andrometta](https://citiz3ns.xyz) ━ A NFT community!
 - [Citiz3ns Marketplace](https://citiz3ns.xyz) A NFT Marketplace & News website
 - Some other small side-projects that are not important enough to mention
 
-## My weekly Waka stats
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlgoHussle&show_icons=true&theme=transparent" />
 
-**🐱 My Github Data** 
-
-> 🏆 129 Contributions in the year 2020
- > 
-> 📦 125.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 43 Public repositories
- > 
-> 🔑 12 Private repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
-🌆 Daytime    55 commits     ████████████░░░░░░░░░░░░░   50.46% 
-🌃 Evening    29 commits     ██████░░░░░░░░░░░░░░░░░░░   26.61% 
-🌙 Night      19 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.43%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
-Tuesday      34 commits     ███████░░░░░░░░░░░░░░░░░░   31.19% 
-Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Thursday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
-Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
-Sunday       25 commits     █████░░░░░░░░░░░░░░░░░░░░   22.94%
-
-```
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoHussle&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 
-📊 **This Week I Spend My Time On** 
-
-```text
-⌚︎ Time zone: North America
-
-💬 Programming Languages: 
-JavaScript               16 hrs 2 mins       ██████████████████░░░░░░░   71.79% 
-HTML                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
-Pug                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
-
-🔥 Code Editors: 
-VS Code                  22 hrs 20 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-NameDiscord              12 hrs 36 mins      ██████████████░░░░░░░░░░░   56.41% 
-DiscordWhois             4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
-Unknown Project          3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-StefLuisterdNooit!       41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
-Hmpff                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-💻 Operating System: 
-Windows                  22 hrs 20 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-CSS                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-
-
-<!--END_SECTION:waka-->
-
-## Credits
-- The stats are generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-- The icons/badges are provided by [Shields.io](https://shields.io/)
-
-⭐️ From [> AlgoHussle ✌](https://github.com/AlgoHussle)
-
-
-## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/anmol098/waka-readme-stats.svg)](https://starchart.cc/anmol098/waka-readme-stats)
+
 
