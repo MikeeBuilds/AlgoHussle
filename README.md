@@ -4,8 +4,8 @@ I'm Algo.
 - 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++
 - 🐟 When Im not coding Im usually spending time outdoors fishing or hiking.
 - 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
-- 📫 I do write blogs about tech topics and scroll through twitter pertty often.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
+- 📫 I do write blogs about tech topics and scroll through twitter pretty often.
+- ❓ Want to know more about me? You can always contact me via several social medias!
 
 ## Social media
 [![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/vTz2HjMP)
