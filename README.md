@@ -14,7 +14,7 @@ I'm Algo.
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/AlgoHussle?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/AlgoHussle)  
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/AlgoHussle?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/algohussle)
 ‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/kawaaii)
-‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
+
 
 # Current projects
 - [Citz3ns of Andrometta](https://citiz3ns.xyz) ━ A NFT community!
