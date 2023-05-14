@@ -1,13 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=2000&pause=2000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=%F0%9F%91%8B+Hey+there!+I'm+Algo;Thanks+for+checking+out+my+GitHub+page!;%E2%AD%90+Anything+questions+you+may+have;Feel+free+to+get+in+touch+with+me!)](https://git.io/typing-svg)
 
 
-
-## Hi there 👋
-I'm Algo.  
 - 🧑🏾‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
-- 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++
+- 🌱 I work a lot with Javascript especially with NodeJS and have been loving threejs and Nextjs
 - 🐟 When Im not coding Im usually spending time outdoors fishing or hiking.
-- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
+- 🖇️ I like to discuss coding with others and learn more. So dont hesitate to send me a DM!
 - 📫 I do write blogs about tech topics and scroll through twitter pretty often.
 - ❓ Want to know more about me? You can always contact me via several social medias!
 
