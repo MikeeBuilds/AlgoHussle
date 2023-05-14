@@ -22,13 +22,6 @@ I'm Algo.
 - [Citiz3ns Marketplace](https://citiz3ns.xyz) A NFT Marketplace & News website
 - Some other small side-projects that are not important enough to mention
 
-<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AlgoHussle&show_icons=true&theme=transparent" />
-
-<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoHussle&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-
-
-
-[![Stargazers over time](https://starchart.cc/anmol098/waka-readme-stats.svg)](https://starchart.cc/anmol098/waka-readme-stats)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
