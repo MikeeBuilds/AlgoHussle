@@ -10,7 +10,7 @@
 
 ## Social media
 
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/AlgoHussle?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Bankroll_Miyagi)
+‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/AlgoHussle?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/AlgoCodes_eth)
 ‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/21367496/algo)
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/AlgoHussle?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/AlgoHussle)  
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/algohussle?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/algohussle)
