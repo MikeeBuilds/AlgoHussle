@@ -19,6 +19,7 @@
 
 
 # Current projects
+- [AI Summarize](https://ai-summarize-psi.vercel.app/) - Summarize articles using GPT4
 - [Citz3ns of Andrometta](https://citiz3ns.xyz) ━ A NFT community!
 - [Citiz3ns Marketplace](https://citiz3ns.xyz) A NFT Marketplace & News website
 - Some other small side-projects that are not important enough to mention
