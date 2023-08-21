@@ -30,9 +30,9 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=algohussle&show_icons=true&locale=en&theme=chartreuse-dark" alt="BankkRoll">
 <img src="https://github-readme-stats.vercel.app/api?username=algohussle&show_icons=true&theme=chartreuse-dark" align="right" alt="algohussle :: Profile Stats" /></p>
 
-<td>
+//<td>
 <a href="https://app.daily.dev/algohussle"><img src="https://github.com/algohussle/algohussle/blob/main/devcard.svg" width="400" alt="Algo's Dev Card"/></a>
-</td>
+//</td>
 
 
 <p align="center">
