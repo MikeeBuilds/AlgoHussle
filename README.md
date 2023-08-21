@@ -30,6 +30,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=algohussle&show_icons=true&locale=en&theme=chartreuse-dark" alt="BankkRoll">
 <img src="https://github-readme-stats.vercel.app/api?username=algohussle&show_icons=true&theme=chartreuse-dark" align="right" alt="algohussle :: Profile Stats" /></p>
 
+https://api.daily.dev/devcards/cffff79482644b9d9fcbc7e058fb0b6d.png?r=2ol
 
 <p align="center">
   <h2>🛠️ Languages </h2>
