@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=2000&pause=2000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=%F0%9F%91%8B+GM!+I'm+Algo;Thanks+for+checking+out+my+GitHub+page!;%E2%AD%90+Any+questions+you+may+have;Feel+free+to+get+in+touch+with+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=2000&pause=2000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=%F0%9F%91%8B+GM!+I'm+Mike;Thanks+for+checking+out+my+GitHub+page!;%E2%AD%90+Any+questions+you+may+have;Feel+free+to+get+in+touch+with+me!)](https://git.io/typing-svg)
 
 
 - 🧑🏾‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
